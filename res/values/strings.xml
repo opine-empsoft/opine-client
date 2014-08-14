@@ -4,5 +4,6 @@
     <string name="app_name">Opine</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="fb_app_id">352850148196460</string>
 
 </resources>
