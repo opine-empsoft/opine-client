@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Opine</string>
+    <string name="fb_app_id">1515152225364929</string>
+    <string name="project_name">opine-client</string>
+    <string name="com_empsoft_opine_splash_logo_hint">Opine</string>
+    <string name="com_empsoft_opine_main_login_auth_text">Login usando Facebook</string>
+    <string name="com_empsoft_opine_main_app_logout_text">Logout</string>
+</resources>
