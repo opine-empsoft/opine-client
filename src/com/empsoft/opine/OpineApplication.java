@@ -12,10 +12,9 @@ import com.parse.Parse;
 import com.parse.ParseInstallation;
 import com.parse.PushService;
 
-
 public class OpineApplication extends Application {
 
-	public final static String TAG = "com.lespi.aki";
+	public final static String TAG = "com.empsoft.opine";
 	public final static boolean DEBUG_MODE = false;
 
 	public static CookieManager cookieManager;
@@ -36,7 +35,7 @@ public class OpineApplication extends Application {
 		CookieHandler.setDefault(cookieManager);
 		cookieManager.setCookiePolicy(CookiePolicy.ACCEPT_ALL);
 	}
-	
+
 	@Override
 	public void onCreate() {
 		super.onCreate();

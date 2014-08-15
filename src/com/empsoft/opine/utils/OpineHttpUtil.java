@@ -21,7 +21,7 @@ import com.parse.internal.AsyncCallback;
 
 public abstract class OpineHttpUtil {
 
-	private static final String API_LOCATION = "lespi-server.herokuapp.com";
+	private static final String API_LOCATION = "opine-server.herokuapp.com";
 
 	private static class HttpRequestExecutor extends AsyncTask<String, Void, JsonObject>{
 
